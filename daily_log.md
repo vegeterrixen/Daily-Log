@@ -1,3 +1,10 @@
+### WL
+---
+###### 01/03/2018
+* Pengenalan Agile Software Development (Scrum technique)
+* Pengenalan Git workflow pada company
+* Setup Company Environment 
+
 #### VG
 ---
 ###### 01/03/2017

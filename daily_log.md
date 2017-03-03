@@ -10,3 +10,8 @@
 * Pengenalan konsep dari Chatbot serta benefit yang didapat apa saja dengan menggunakan Chatbot
 * Pengenalan konsep dari Docker (Images, Containers, Daemon)
 * Pengenalan konsep dari Flask (Microframework) untuk Python
+
+###### 03/03/2017
+* Mempelajari Git commands (add, checkout, commit, fetch, pull, push, merge, reset)
+* Menginstall Python packages (numpy, scipy, sklearn, pandas, matplotlib, jupyter, flask, requests, pymongo, redis, pymysql)
+* Pengenalan Style Guide untuk Python Code -- PEP 8

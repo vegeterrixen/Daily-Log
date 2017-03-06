@@ -15,3 +15,8 @@
 * Mempelajari Git commands (add, checkout, commit, fetch, pull, push, merge, reset)
 * Menginstall Python packages (numpy, scipy, sklearn, pandas, matplotlib, jupyter, flask, requests, pymongo, redis, pymysql)
 * Pengenalan Style Guide untuk Python Code -- PEP 8
+
+###### 06/03/2017
+* Mencoba Git commands (rm, revert)
+* Menginstall Docker dan melakukan pull pada Repo python dan mongo
+* Membuat dan menjalan docker image yang telah dibuat -- image yang saya buat yaitu web app menggunakan python flask

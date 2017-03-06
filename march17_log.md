@@ -19,4 +19,4 @@
 ###### 06/03/2017
 * Mencoba Git commands (rm, revert, commit --amend, add -u)
 * Menginstall Docker dan melakukan pull pada Repo python dan mongo
-* Membuat dan menjalan docker image yang telah dibuat -- image yang saya buat yaitu web app menggunakan python flask
+* Membuat dan menjalankan docker image yang telah dibuat -- image yang saya buat yaitu web app menggunakan python flask

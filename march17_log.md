@@ -78,3 +78,4 @@
 * Mendapatkan arahan dan resources untuk mempelajari tentang Git, Python, dan Software Engineer's philosophy and techniques.
 * Mempelajari tentang Inheritance dan Composition pada Python
 * Mempelajari keyboard shortcuts pada Vim editor saat mempelajari Python
+* Sharing session tentang objectives dan values yang ada di Kurio

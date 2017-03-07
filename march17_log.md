@@ -21,6 +21,10 @@
 * Penerapan viper development pada swift
 * Melakukan townhall meeting
 
+###### 07/03/2017
+* Penerapan viper development pada swift (continue)
+* implementasi git
+* 
 
 #### VG
 ---

@@ -1,9 +1,26 @@
 ### WL
 ---
-###### 01/03/2018
+###### 01/03/2017
 * Pengenalan Agile Software Development (Scrum technique)
 * Pengenalan Git workflow pada company
 * Setup Company Environment 
+* Melakukan Git dan belajar menggunakan git dalam project
+
+###### 02/03/2017
+* Pengenalan konsep git workflow pada team
+* Pengenalan standup meeting 
+* Pengenalan konsep environmet pada company
+
+###### 03/03/2017
+* Pemahaman konsep firebase dan realm
+* Melakukan onboarding pada workflow
+* Melakukan setup cocoapods
+
+###### 06/03/2017
+* Pemahaman viper software development
+* Penerapan viper development pada swift
+* Melakukan townhall meeting
+
 
 #### VG
 ---

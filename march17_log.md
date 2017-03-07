@@ -1,3 +1,28 @@
+####WG
+---
+###### 01/03/2017
+* Pengenalan tentang Scrum
+* Mengenal dan mempelajari mengenai Git
+* Menginstall keperluan yang nanti di butuhkan saat berkerja seperti text editor
+
+###### 02/03/2017
+* Pengenalan mengenai Docker
+* Memperlancar penggunaan Git
+* Membaca hal-hal yang bersangkutan dengan ChatBot
+
+###### 03/03/2017
+* Menginstall python virtual enviroment
+* Pengenalan tentang microframeworks flask dan penginstalannya
+
+###### 06/03/2017
+* Memperdalam mempelajari Docker
+* Memperdalam mempelajari flask
+* Mengimplementasikan penggunaan flask dan Docker secara bersamaan (menggunakan flask dalam Docker)
+
+###### 07/03/2017
+* Membaca mengenai python framework seperti flask dan melakukan pengcodean sederhana
+* Membaca tujuan orientasi git dan ebook lainnya
+
 #### WL
 ---
 ###### 01/03/2017

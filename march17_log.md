@@ -1,4 +1,4 @@
-####WG
+#### WG
 ---
 ###### 01/03/2017
 * Pengenalan tentang Scrum
@@ -49,7 +49,6 @@
 ###### 07/03/2017
 * Penerapan viper development pada swift (continue)
 * implementasi git
-* 
 
 #### VG
 ---
@@ -73,3 +72,9 @@
 * Mencoba Git commands (rm, revert, commit --amend, add -u)
 * Menginstall Docker dan melakukan pull pada Repo python dan mongo
 * Membuat dan menjalankan docker image yang telah dibuat -- image yang saya buat yaitu web app menggunakan python flask
+
+###### 07/03/2017
+* Mencoba melakukan merge dari pull requests yang masuk pada Daily-Log repository.
+* Mendapatkan arahan dan resources untuk mempelajari tentang Git, Python, dan Software Engineer's philosophy and techniques.
+* Mempelajari tentang Inheritance dan Composition pada Python
+* Mempelajari keyboard shortcuts pada Vim editor saat mempelajari Python

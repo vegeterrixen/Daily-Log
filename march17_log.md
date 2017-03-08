@@ -30,6 +30,8 @@
 * Pemahaman mengenai Ab test dan TDD development
 * Implementasi Core Data pada Viper Architecture
 
+
+
 #### VG
 ---
 ###### 01/03/2017

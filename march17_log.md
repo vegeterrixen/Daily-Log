@@ -50,6 +50,12 @@
 * Penerapan viper development pada swift (continue)
 * implementasi git
 
+###### 08/03/2017
+* Melakukan Error handling pada Viper Architecture (continue)
+* Pemahaman mengenai Ab test dan TDD development
+* Implementasi Core Data pada Viper Architecture
+
+
 #### VG
 ---
 ###### 01/03/2017

@@ -1,3 +1,28 @@
+#### WG
+---
+###### 01/03/2017
+* Pengenalan tentang Scrum
+* Mengenal dan mempelajari mengenai Git
+* Menginstall keperluan yang nanti di butuhkan saat berkerja seperti text editor
+
+###### 02/03/2017
+* Pengenalan mengenai Docker
+* Memperlancar penggunaan Git
+* Membaca hal-hal yang bersangkutan dengan ChatBot
+
+###### 03/03/2017
+* Menginstall python virtual enviroment
+* Pengenalan tentang microframeworks flask dan penginstalannya
+
+###### 06/03/2017
+* Memperdalam mempelajari Docker
+* Memperdalam mempelajari flask
+* Mengimplementasikan penggunaan flask dan Docker secara bersamaan (menggunakan flask dalam Docker)
+
+###### 07/03/2017
+* Membaca mengenai python framework seperti flask dan melakukan pengcodean sederhana
+* Membaca tujuan orientasi git dan ebook lainnya
+
 #### WL
 ---
 ###### 01/03/2017
@@ -31,7 +56,6 @@
 * Implementasi Core Data pada Viper Architecture
 
 
-
 #### VG
 ---
 ###### 01/03/2017
@@ -54,3 +78,10 @@
 * Mencoba Git commands (rm, revert, commit --amend, add -u)
 * Menginstall Docker dan melakukan pull pada Repo python dan mongo
 * Membuat dan menjalankan docker image yang telah dibuat -- image yang saya buat yaitu web app menggunakan python flask
+
+###### 07/03/2017
+* Mencoba melakukan merge dari pull requests yang masuk pada Daily-Log repository.
+* Mendapatkan arahan dan resources untuk mempelajari tentang Git, Python, dan Software Engineer's philosophy and techniques.
+* Mempelajari tentang Inheritance dan Composition pada Python
+* Mempelajari keyboard shortcuts pada Vim editor saat mempelajari Python
+* Sharing session tentang objectives dan values yang ada di Kurio

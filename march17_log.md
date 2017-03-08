@@ -85,3 +85,8 @@
 * Mempelajari tentang Inheritance dan Composition pada Python
 * Mempelajari keyboard shortcuts pada Vim editor saat mempelajari Python
 * Sharing session tentang objectives dan values yang ada di Kurio
+
+###### 08/03/2017
+* Mempelajari Git commands (show, log, diff, blame, grep)
+* Mencoba melakukan web scraping menggunakan Python (dengan packages: requests dan BeautifulSoup)
+* Pengenalan tentang REST API dan Authentication (e.g. OAuth)

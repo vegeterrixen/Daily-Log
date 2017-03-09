@@ -55,6 +55,10 @@
 * Pemahaman mengenai Ab test dan TDD development
 * Implementasi Core Data pada Viper Architecture
 
+###### 09/03/2017
+* Menjelaskan workflow pada project
+* Penjelasan konsep POP (Protocol Oriented Programming)
+* Pengerjaan swift menggunakan Viper Architecture
 
 #### VG
 ---

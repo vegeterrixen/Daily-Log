@@ -38,6 +38,11 @@
 * Penjelasan konsep POP (Protocol Oriented Programming)
 * Pengerjaan swift menggunakan Viper Architecture
 
+###### 10/03/2017
+* Melakukan Daily Standup
+* Penerapan Viper architecture pada Core Data
+* Mengikuti sharing session untuk kurio new technology
+
 
 #### VG
 ---

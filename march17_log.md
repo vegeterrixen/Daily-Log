@@ -23,6 +23,13 @@
 * Membaca mengenai python framework seperti flask dan melakukan pengcodean sederhana
 * Membaca tujuan orientasi git dan ebook lainnya
 
+###### 08/03/2017
+* Tidak masuk dikarenakan sakit
+
+###### 09/03/2017
+* Mempelajari key-key yang ada pada python
+* Melakukan pengodean sederhana menggunakan python
+
 #### WL
 ---
 ###### 01/03/2017

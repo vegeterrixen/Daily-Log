@@ -16,6 +16,11 @@
 * Mempelajari key-key yang ada pada python
 * Melakukan pengodean sederhana menggunakan python
 
+###### 10/03/2017
+* Mempelajari tentang RESTful API
+* Mempelajari tentang Test-Driven Development
+* Mereview beberapa algoritma dengan membaca Coursera
+
 #### WL
 ---
 

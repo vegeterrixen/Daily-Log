@@ -1,5 +1,4 @@
-#### WG
----
+#### WG---
 
 ###### 06/03/2017
 * Memperdalam mempelajari Docker
@@ -9,6 +8,13 @@
 ###### 07/03/2017
 * Membaca mengenai python framework seperti flask dan melakukan pengcodean sederhana
 * Membaca tujuan orientasi git dan ebook lainnya
+
+###### 08/03/2017
+* Tidak masuk dikarenakan sakit
+
+###### 09/03/2017
+* Mempelajari key-key yang ada pada python
+* Melakukan pengodean sederhana menggunakan python
 
 #### WL
 ---

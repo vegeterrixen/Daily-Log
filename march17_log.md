@@ -54,6 +54,11 @@
 * Melakukan Error handling pada Viper Architecture (continue)
 * Pemahaman mengenai Ab test dan TDD development
 * Implementasi Core Data pada Viper Architecture
+ 
+###### 09/03/2017
+* Menjelaskan workflow pada project
+* Penjelasan konsep POP (Protocol Oriented Programming)
+* Pengerjaan swift menggunakan Viper Architecture
 
 
 #### VG
@@ -85,8 +90,11 @@
 * Mempelajari tentang Inheritance dan Composition pada Python
 * Mempelajari keyboard shortcuts pada Vim editor saat mempelajari Python
 * Sharing session tentang objectives dan values yang ada di Kurio
+<<<<<<< HEAD
+=======
 
 ###### 08/03/2017
 * Mempelajari Git commands (show, log, diff, blame, grep)
 * Mencoba melakukan web scraping menggunakan Python (dengan packages: requests dan BeautifulSoup)
 * Pengenalan tentang REST API dan Authentication (e.g. OAuth)
+>>>>>>> upstream/master

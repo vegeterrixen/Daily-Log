@@ -6,6 +6,12 @@
 * Pemahaman mengenai MagicalRecord
 * Implementasi MagicalRecord
 
+###### 14/03/2017
+* Melakukan Daily Stand-Up
+* Implementasi MagicalRecord (continue)
+* Mengikuti sharing session
+
+
 
 #### VG
 ---

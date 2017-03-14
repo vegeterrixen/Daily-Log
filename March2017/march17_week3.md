@@ -17,8 +17,8 @@
 
 ###### 14/03/2017
 * Pemahaman mengenai YouTube Data API v3 ()
-* Melakukan request ke Youtube Data API untuk mendapatkan data seperti title, description, dan statistik dari suatu video.
-* Pemahaman penggunaan YouTube Data API v3 dengan Python
+* Melakukan request ke Youtube Data API untuk mendapatkan data seperti title, description, dan statistik dari suatu video
+* Pemahaman tentang penggunaan YouTube Data API v3 dengan Python
 
 
 #### WG

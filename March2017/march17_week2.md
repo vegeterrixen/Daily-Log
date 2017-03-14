@@ -1,4 +1,5 @@
-#### WG---
+#### WG
+---
 
 ###### 06/03/2017
 * Memperdalam mempelajari Docker
@@ -15,6 +16,11 @@
 ###### 09/03/2017
 * Mempelajari key-key yang ada pada python
 * Melakukan pengodean sederhana menggunakan python
+
+###### 10/03/2017
+* Mempelajari tentang RESTful API
+* Mempelajari tentang Test-Driven Development
+* Mereview beberapa algoritma dengan membaca Coursera
 
 #### WL
 ---
@@ -68,3 +74,8 @@
 * Pengenalan 6 karakteristik dari REST (Client-Server, Stateless, Cacheable, Layered System, Uniform Interface, Code on demand)
 * Menggunakan HTTP methods untuk RESTful services dalam Python flask (GET, POST, PUT, DELETE)
 * Melanjutkan materi pemrograman Python (List, Dictionaries, and Manipulating Strings)
+
+###### 10/03/2017
+* Memahami Software Development Process dari Test-Driven Development (TDD)
+* Pengenalan Test-Driven Development dengan Python
+* Mempelajari Git commands (reset --hard, stash, stash apply, tag)

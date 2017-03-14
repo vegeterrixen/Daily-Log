@@ -15,6 +15,11 @@
 * Pemahaman mengenai konsep dari AMQP (Publisher, Exchange, Queue, Consumer)
 * Mencoba basic dari RabbitMQ menggunakan Python (pika)
 
+=======
+###### 14/03/2017
+* Pemahaman mengenai YouTube Data API v3 ()
+* Melakukan request ke Youtube Data API untuk mendapatkan data seperti title, description, dan statistik dari suatu video
+* Pemahaman tentang penggunaan YouTube Data API v3 dengan Python
 
 #### WG
 ---

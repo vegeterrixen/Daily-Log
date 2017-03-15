@@ -33,3 +33,11 @@
 ###### 13/03/2017
 * Mempelajari tentang RabbitMQ dan penggunaannya
 * Mempelajari konsep RabbitMQ yang terbagi menjadi 6 tipe (berdasarkan kebutuhan)
+
+###### 14/03/2017
+* Mempelajari tentang konsep API (drag data) 
+* Melancarkan penggunaan python
+
+###### 15/03/2017
+* Mempelajari mengenai konsep requests, json
+* Membaca beberapa artikel dan dokumentasi tentang connection pada python

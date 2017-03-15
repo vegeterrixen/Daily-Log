@@ -11,6 +11,10 @@
 * Implementasi MagicalRecord (continue)
 * Mengikuti sharing session
 
+###### 15/03/2017
+* Melakukan implementasi tableView
+* Mengikuti sharing session
+* implementasi tableView pada coreData
 
 
 #### VG

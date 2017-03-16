@@ -37,6 +37,11 @@
 ###### 15/03/2017
 * Membahas tentang project yang akan dikerjakan dengan metodologi Scrum; Project yang dikerjakan menggunakan Python, MongoDB, RabbitMQ
 
+###### 16/03/2017
+* Mengerjakan task untuk mengambil data video dari Kurio API menggunakan Python
+* (cont.) Mempelajari Test-Driven Development dengan Python
+* Mengikuti Tech Talk: "Twitter Analysis"
+
 
 #### WG
 ---

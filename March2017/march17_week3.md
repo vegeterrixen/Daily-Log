@@ -14,7 +14,11 @@
 ###### 15/03/2017
 * Melakukan implementasi tableView
 * Mengikuti sharing session
-* implementasi tableView pada coreData
+
+###### 16/03/2017
+* Melakukan implementasi tableView menggunakan magicalRecord
+* Mengikuti sharing session
+* Mengikuti brandstorming pada kurio mobile apps
 
 
 #### VG

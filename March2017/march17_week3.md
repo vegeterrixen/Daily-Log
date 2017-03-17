@@ -20,6 +20,11 @@
 * Mengikuti sharing session
 * Mengikuti brandstorming pada kurio mobile apps
 
+###### 17/03/2017
+* Melakukan implementasi tableView menggunakan magicalRecord(continue)
+* Melakukan discuss mengenai kurio apps
+* Pemahaman mengenai implementasi webview
+
 
 
 #### VG

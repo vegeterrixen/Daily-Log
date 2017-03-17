@@ -49,6 +49,11 @@
 * (cont.) Mempelajari Test-Driven Development dengan Python
 * Mengikuti Tech Talk: "Twitter Analysis"
 
+###### 17/03/2017
+* (cont.) Mengerjakan task dari project untuk mengambil data video dari Kurio API menggunakan Python
+* Mempelajari cara membuat configuration file untuk project Python
+* Mempelajari operations pada MongoDB (insert, delete)
+
 
 #### WG
 ---

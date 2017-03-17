@@ -26,7 +26,6 @@
 * Pemahaman mengenai implementasi webview
 
 
-
 #### VG
 ---
 
@@ -39,6 +38,9 @@
 * Pemahaman mengenai YouTube Data API v3 (Parameters, Response)
 * Melakukan request ke Youtube Data API untuk mendapatkan data seperti title, description, dan statistik (viewCount, likeCount, dislikeCount) dari suatu video
 * Pemahaman tentang penggunaan YouTube Data API v3 dengan Python
+
+###### 15/03/2017
+* Membahas tentang project yang akan dikerjakan dengan metodologi Scrum; Project yang dikerjakan menggunakan Python, MongoDB, RabbitMQ
 
 
 #### WG

@@ -10,6 +10,7 @@
 * (cont.) Mengerjakan project tasks (scheduler untuk video_data)
     * Menambahkan functions baru ke scheduler
     * Fixing bugs di functions scheduler
+* Mengikuti Tech Talk: Software Design Pattern (by Pandu)
 
 #### WL
 ---

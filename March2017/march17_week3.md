@@ -20,6 +20,7 @@
 * Mengikuti sharing session
 * Mengikuti brandstorming pada kurio mobile apps
 
+
 ###### 17/03/2017
 * Melakukan implementasi tableView menggunakan magicalRecord(continue)
 * Melakukan discuss mengenai kurio apps
@@ -29,6 +30,7 @@
 * Pemahaman konsep alamofire pada swift
 * Implementasi alamofire pada swift dengan viper architecture
 * Implementasi kurioSDK pada swift
+
 
 #### VG
 ---
@@ -45,6 +47,11 @@
 
 ###### 15/03/2017
 * Membahas tentang project yang akan dikerjakan dengan metodologi Scrum; Project yang dikerjakan menggunakan Python, MongoDB, RabbitMQ
+
+###### 16/03/2017
+* Mengerjakan task untuk mengambil data video dari Kurio API menggunakan Python
+* (cont.) Mempelajari Test-Driven Development dengan Python
+* Mengikuti Tech Talk: "Twitter Analysis"
 
 
 #### WG

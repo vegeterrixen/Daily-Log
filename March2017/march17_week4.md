@@ -13,3 +13,7 @@
 * Pemahaman konsep alamofire pada swift
 * Implementasi alamofire pada swift dengan viper architecture
 * Implementasi kurioSDK pada swift
+
+###### 21/03/2017
+* Implementasi kurioSDK pada swift (continue)
+* Implementasi video menggunakan kurioSDK pada swift

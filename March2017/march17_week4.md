@@ -6,6 +6,11 @@
 * (cont.) Mempelajari operations pada MongoDB (find, replace, update)
 * (cont.) Mengerjakan project tasks
 
+###### 21/03/2017
+* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
+    * Menambahkan functions baru ke scheduler
+    * Fixing bugs di functions scheduler
+
 #### WL
 ---
 

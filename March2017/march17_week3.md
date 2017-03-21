@@ -27,6 +27,13 @@
 * Pemahaman mengenai implementasi webview
 
 
+<<<<<<< HEAD
+=======
+###### 20/03/2017
+* Pemahaman konsep alamofire pada swift
+* Implementasi alamofire pada swift dengan viper architecture
+* Implementasi kurioSDK pada swift
+>>>>>>> d0910d5f87b7dc968730f5de45866c3d55d26667
 
 
 #### VG

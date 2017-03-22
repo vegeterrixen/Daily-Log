@@ -49,7 +49,7 @@
 ###### 16/03/2017
 * Mengerjakan task untuk mengambil data video dari Kurio API menggunakan Python
 * (cont.) Mempelajari Test-Driven Development dengan Python
-* Mengikuti Tech Talk: "Twitter Analysis"
+* Mengikuti Tech Talk: Twitter Analysis (by Oki)
 
 ###### 17/03/2017
 * (cont.) Mengerjakan task dari project untuk mengambil data video dari Kurio API menggunakan Python

@@ -17,3 +17,6 @@
 ###### 21/03/2017
 * Implementasi kurioSDK pada swift (continue)
 * Implementasi video menggunakan kurioSDK pada swift
+
+###### 22/03/2017
+* Mengerjakan project iOS kurio new features (continue)

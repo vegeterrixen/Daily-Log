@@ -12,6 +12,12 @@
     * Fixing bugs di functions scheduler
 * Mengikuti Tech Talk: Software Design Pattern (by Pandu)
 
+###### 22/03/2017
+* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
+    * Menambahkan schedule process untuk mengambil video ids
+    * Menambahkan function untuk mengirim video ids
+    * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
+
 #### WL
 ---
 

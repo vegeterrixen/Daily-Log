@@ -34,3 +34,16 @@
 ###### 22/03/2017
 * Mengerjakan project iOS kurio new features (continue)
 
+#### WG
+---
+
+###### 20/03/2017
+* Implementasi mendapatkan data dari server dengan method POST
+* Memasukkan data ke dalam queue
+
+###### 21/03/2017
+* Mempelajari consuming data
+
+###### 22/03/2017
+* Mempelajari git dan cara mengatasi konflik (continue)
+* Mempelajari aturan pep8 python

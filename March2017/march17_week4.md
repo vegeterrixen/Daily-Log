@@ -34,3 +34,7 @@
 ###### 22/03/2017
 * Mengerjakan project iOS kurio new features (continue)
 
+###### 23/03/2017
+* Mengerjakan project iOS kurio new features (pending)
+* Mempelajari swift code
+* mempelajarin json parse pada swift

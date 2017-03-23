@@ -18,6 +18,11 @@
     * Menambahkan function untuk mengirim video ids
     * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
 
+###### 22/03/2017
+* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
+    * Mengerjakan task untuk `worker` -- `fetch`, `convert`, dan `save` data video.
+    * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
+
 #### WL
 ---
 
@@ -34,6 +39,7 @@
 ###### 22/03/2017
 * Mengerjakan project iOS kurio new features (continue)
 
+
 #### WG
 ---
 
@@ -47,3 +53,8 @@
 ###### 22/03/2017
 * Mempelajari git dan cara mengatasi konflik (continue)
 * Mempelajari aturan pep8 python
+
+###### 23/03/2017
+* Mengerjakan project iOS kurio new features (pending)
+* Mempelajari swift code
+* mempelajarin json parse pada swift

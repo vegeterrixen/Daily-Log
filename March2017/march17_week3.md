@@ -20,14 +20,10 @@
 * Mengikuti sharing session
 * Mengikuti brandstorming pada kurio mobile apps
 
-
 ###### 17/03/2017
 * Melakukan implementasi tableView menggunakan magicalRecord(continue)
 * Melakukan discuss mengenai kurio apps
 * Pemahaman mengenai implementasi webview
-
-
-
 
 
 #### VG
@@ -38,13 +34,11 @@
 * Pemahaman mengenai konsep dari AMQP (Publisher, Exchange, Queue, Consumer)
 * Mencoba basic dari RabbitMQ menggunakan Python (pika)
 
-=======
 ###### 14/03/2017
 * Pemahaman mengenai YouTube Data API v3 (Parameters, Response)
 * Melakukan request ke Youtube Data API untuk mendapatkan data seperti title, description, dan statistik (viewCount, likeCount, dislikeCount) dari suatu video
 * Pemahaman tentang penggunaan YouTube Data API v3 dengan Python
 
-=======
 ###### 15/03/2017
 * Membahas tentang project yang akan dikerjakan dengan metodologi Scrum; Project yang dikerjakan menggunakan Python, MongoDB, RabbitMQ
 
@@ -67,7 +61,7 @@
 * Mempelajari konsep RabbitMQ yang terbagi menjadi 6 tipe (berdasarkan kebutuhan)
 
 ###### 14/03/2017
-* Mempelajari tentang konsep API (drag data) 
+* Mempelajari tentang konsep API (drag data)
 * Melancarkan penggunaan python
 
 ###### 15/03/2017

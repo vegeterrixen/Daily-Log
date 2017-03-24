@@ -38,3 +38,8 @@
 * Mengerjakan project iOS kurio new features (pending)
 * Mempelajari swift code
 * mempelajarin json parse pada swift
+
+###### 24/03/2017
+* Mempelajari swift code (continue)
+* Mempelajari konsep mapping json object pada swift
+* Mempelajari konsep requesting url pada swift

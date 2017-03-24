@@ -18,6 +18,17 @@
     * Menambahkan function untuk mengirim video ids
     * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
 
+###### 23/03/2017
+* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
+    * Mengerjakan task untuk `worker` -- `fetch`, `convert`, dan `save` data video.
+    * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
+
+###### 24/03/2017
+* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
+    * Mengerjakan task untuk `worker` -- `fetch`, `convert`, dan `save` data video.
+    * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
+    * Membuat project description untuk video_data
+
 #### WL
 ---
 
@@ -42,3 +53,20 @@
 * Mempelajari swift code (continue)
 * Mempelajari konsep mapping json object pada swift
 * Mempelajari konsep requesting url pada swift
+
+
+#### WG
+---
+
+###### 20/03/2017
+* Implementasi mendapatkan data dari server dengan method POST
+* Memasukkan data ke dalam queue
+
+###### 21/03/2017
+* Mempelajari consuming data
+
+###### 22/03/2017
+* Mempelajari git dan cara mengatasi konflik (continue)
+* Mempelajari aturan pep8 python
+
+

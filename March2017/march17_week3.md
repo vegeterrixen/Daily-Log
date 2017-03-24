@@ -20,14 +20,10 @@
 * Mengikuti sharing session
 * Mengikuti brandstorming pada kurio mobile apps
 
-
 ###### 17/03/2017
 * Melakukan implementasi tableView menggunakan magicalRecord(continue)
 * Melakukan discuss mengenai kurio apps
 * Pemahaman mengenai implementasi webview
-
-
-
 
 
 #### VG
@@ -63,3 +59,18 @@
 ###### 13/03/2017
 * Mempelajari tentang RabbitMQ dan penggunaannya
 * Mempelajari konsep RabbitMQ yang terbagi menjadi 6 tipe (berdasarkan kebutuhan)
+
+###### 14/03/2017
+* Mempelajari tentang konsep API (drag data)
+* Melancarkan penggunaan python
+
+###### 15/03/2017
+* Mempelajari mengenai konsep requests, json
+* Membaca beberapa artikel dan dokumentasi tentang connection pada python
+
+###### 16/03/2017
+* Mengerjakan Queue
+* Membuat rabbitmq di local
+
+###### 17/03/2017
+* Membuat API menggunakan flask

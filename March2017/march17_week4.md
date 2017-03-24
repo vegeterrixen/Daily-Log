@@ -18,10 +18,16 @@
     * Menambahkan function untuk mengirim video ids
     * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
 
-###### 22/03/2017
+###### 23/03/2017
 * (cont.) Mengerjakan project tasks (scheduler untuk video_data)
     * Mengerjakan task untuk `worker` -- `fetch`, `convert`, dan `save` data video.
     * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
+
+###### 24/03/2017
+* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
+    * Mengerjakan task untuk `worker` -- `fetch`, `convert`, dan `save` data video.
+    * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
+    * Membuat project description untuk video_data
 
 #### WL
 ---

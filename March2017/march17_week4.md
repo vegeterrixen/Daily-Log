@@ -69,4 +69,6 @@
 * Mempelajari git dan cara mengatasi konflik (continue)
 * Mempelajari aturan pep8 python
 
-
+###### 23/03/2017
+* Mengerjakan project, consuming data from queue (continue)
+* Mempelajari pymongo menggunakan python

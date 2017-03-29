@@ -14,3 +14,7 @@
 * Membahas tasks yang akan dikerjakan untuk sprint berikutnya
 * (cont.) Mempelajari Python decorators
 
+###### 29/03/2017
+* Mengerjakan project tasks dengan menggunakan Python dan BigQuery
+    * Membuat konfigurasi BigQuery dalam project
+    * Menambahkan perubahan pada task yang sedang dikerjakan sesuai review

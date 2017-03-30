@@ -27,11 +27,16 @@
     * Membuat konfigurasi BigQuery dalam project
     * Menambahkan perubahan pada task yang sedang dikerjakan sesuai review
 
+###### 30/03/2017
+* (cont.) Mengerjakan project tasks dengan menggunakan Python dan BigQuery
+    * Mempelajari syntax query untuk mengambil data dari BigQuery
+    * Menyimpan results dari query kedalam MongoDB
+
 #### WL
 ---
- 
+
 ###### 27/03/2017
  * Pemahaman implementasi KurioSDK dan mapping json object ke dalam swift
 
 ###### 29/03/2017
- * implementasi mapping dan requesting json object kedalam swift 
+ * implementasi mapping dan requesting json object kedalam swift

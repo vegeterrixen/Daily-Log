@@ -35,3 +35,7 @@
 
 ###### 29/03/2017
  * implementasi mapping dan requesting json object kedalam swift 
+
+ ###### 30/03/2017
+ * implementasi mapping dan requesting json object kedalam swift (continue)
+

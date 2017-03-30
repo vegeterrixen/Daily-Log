@@ -6,6 +6,14 @@
 * Mereview mongodb dan flask
 * Memperlancar python3
 
+###### 29/03/2017
+* Mengerjakan Project dengan menggunakan python dan mongodb
+* Mempelajari mongodb melalui dokomentasi
+
+###### 30/03/2017
+* Membaca dan mengimplementasikan menarik data dari mongodb
+* Membaca youtube API
+
 #### VG
 ---
 

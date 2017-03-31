@@ -32,6 +32,10 @@
     * Mempelajari syntax query untuk mengambil data dari BigQuery
     * Menyimpan results dari query kedalam MongoDB
 
+###### 31/03/2017
+* (cont.) Mengerjakan project tasks dengan menggunakan Python dan BigQuery
+    * Mempelajari syntax query untuk mengambil data dari BigQuery
+
 #### WL
 ---
 
@@ -40,7 +44,7 @@
 
 ###### 29/03/2017
 
- * implementasi mapping dan requesting json object kedalam swift 
+ * implementasi mapping dan requesting json object kedalam swift
 
  ###### 30/03/2017
  * implementasi mapping dan requesting json object kedalam swift (continue)

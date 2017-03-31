@@ -49,3 +49,7 @@
  ###### 30/03/2017
  * implementasi mapping dan requesting json object kedalam swift (continue)
 
+ ###### 31/03/2017
+ * implementasi mapping dan requesting json object kedalam swift (continue)
+ * Pemahaman konsep Facebook API dan Firebase pada swift
+

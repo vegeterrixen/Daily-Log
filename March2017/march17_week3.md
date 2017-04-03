@@ -31,26 +31,24 @@
 
 ###### 13/03/2017
 * Pengenalan RabbitMQ dan Advanced Message Queuing Protocol (AMQP)
-* Pemahaman mengenai konsep dari AMQP (Publisher, Exchange, Queue, Consumer)
-* Mencoba basic dari RabbitMQ menggunakan Python (pika)
+* Mempraktikkan dasar dari RabbitMQ menggunakan Python
 
 ###### 14/03/2017
-* Pemahaman mengenai YouTube Data API v3 (Parameters, Response)
-* Melakukan request ke Youtube Data API untuk mendapatkan data seperti title, description, dan statistik (viewCount, likeCount, dislikeCount) dari suatu video
-* Pemahaman tentang penggunaan YouTube Data API v3 dengan Python
+* Pemahaman mengenai YouTube Data API (e.g. Parameters dan Response dari API)
+* Mempraktikkan penggunaan Youtube Data API untuk mendapatkan data seperti title, description, dan statistik (viewCount, likeCount, dislikeCount) dari suatu video
 
 ###### 15/03/2017
-* Membahas tentang project yang akan dikerjakan dengan metodologi Scrum; Project yang dikerjakan menggunakan Python, MongoDB, RabbitMQ
+* Membahas project yang akan dikerjakan dengan metodologi Scrum menggunakan Python, Flask, RabbitMQ, MongoDB
 
 ###### 16/03/2017
-* Mengerjakan task untuk mengambil data video dari Kurio API menggunakan Python
-* (cont.) Mempelajari Test-Driven Development dengan Python
+* Mengerjakan task dari project untuk mengambil data video dari Kurio API
+* Mempelajari Test-Driven Development dengan Python
 * Mengikuti Tech Talk: Twitter Analysis (by Oki)
 
 ###### 17/03/2017
-* (cont.) Mengerjakan task dari project untuk mengambil data video dari Kurio API menggunakan Python
-* Mempelajari cara membuat configuration file untuk project Python
-* Mempelajari operations pada MongoDB (insert, delete)
+* (cont.) Mengerjakan task dari project untuk menyimpan data video ke database
+* Mempelajari dan mempraktikkan operations pada MongoDB (insert, delete)
+* Mempelajari dan mempraktikkan cara membuat configuration file untuk project Python
 
 
 #### WG

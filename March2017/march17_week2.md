@@ -54,28 +54,21 @@
 ---
 
 ###### 06/03/2017
-* Mencoba Git commands (rm, revert, commit --amend, add -u)
-* Menginstall Docker dan melakukan pull pada Repo python dan mongo
-* Membuat dan menjalankan docker image yang telah dibuat -- image yang saya buat yaitu web app menggunakan python flask
+* (cont.) Mempraktikkan Git commands (rm, revert, commit --amend, add -u)
+* Menginstall Docker dan mencoba beberapa docker images (python, mongo, rabbitmq)
+* Membuat dan menjalankan docker image yang telah dibuat -- image yang dibuat yaitu web app menggunakan web framework Flask
 
 ###### 07/03/2017
-* Mencoba melakukan merge dari pull requests yang masuk pada Daily-Log repository
-* Mendapatkan arahan dan resources untuk mempelajari tentang Git, Python, dan Software Engineer's philosophy and techniques.
-* Mempelajari tentang Inheritance dan Composition pada Python
-* Mempelajari keyboard shortcuts pada Vim editor saat mempelajari Python
-* Sharing session tentang objectives dan values yang ada di Kurio
+* Mempraktikkan Merge dari Pull Requests yang masuk pada repository Daily-Log
 
 ###### 08/03/2017
-* Mempelajari Git commands (show, log, diff, blame, grep)
-* Mencoba melakukan web scraping menggunakan Python (dengan packages: requests dan BeautifulSoup)
+* Mempraktikkan web scraping menggunakan Python (dengan packages: requests dan BeautifulSoup)
 * Pengenalan tentang REST API dan Authentication (e.g. OAuth)
 
 ###### 09/03/2017
-* Pengenalan 6 karakteristik dari REST (Client-Server, Stateless, Cacheable, Layered System, Uniform Interface, Code on demand)
-* Menggunakan HTTP methods untuk RESTful services dalam Python flask (GET, POST, PUT, DELETE)
-* Melanjutkan materi pemrograman Python (List, Dictionaries, and Manipulating Strings)
+* Mempraktikkan HTTP methods untuk RESTful services dengan Python Flask (GET, POST, PUT, DELETE)
+* Mempelajari dan mempraktikkan methods dari List, Dictionaries, dan Strings dalam Python
 
 ###### 10/03/2017
 * Memahami Software Development Process dari Test-Driven Development (TDD)
-* Pengenalan Test-Driven Development dengan Python
-* Mempelajari Git commands (reset --hard, stash, stash apply, tag)
+* (cont.) Mempraktikkan Git commands (reset --hard, stash, stash apply, tag)

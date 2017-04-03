@@ -2,32 +2,22 @@
 ---
 
 ###### 20/03/2017
-* (cont.) Mempelajari Python (logging, exception handling)
-* (cont.) Mempelajari operations pada MongoDB (find, replace, update)
-* (cont.) Mengerjakan project tasks
+* (cont.) Implementasi logging dan exception handling pada project
+* (cont.) Mempelajari dan mempraktikkan operations pada MongoDB (find, replace, update)
 
 ###### 21/03/2017
-* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
-    * Menambahkan functions baru ke scheduler
-    * Fixing bugs di functions scheduler
+* Mengerjakan task dari project untuk mengirim video id ke module penerima
 * Mengikuti Tech Talk: Software Design Pattern (by Pandu)
 
 ###### 22/03/2017
-* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
-    * Menambahkan schedule process untuk mengambil video ids
-    * Menambahkan function untuk mengirim video ids
-    * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
+* Mengerjakan task dari project untuk membuat process schedule untuk menerima video id dari module pengirim
 
 ###### 23/03/2017
-* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
-    * Mengerjakan task untuk `worker` -- `fetch`, `convert`, dan `save` data video.
-    * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
+* Mengerjakan task dari project untuk mengambil dan menyimpan detail video dari Kurio API ke database.
 
 ###### 24/03/2017
-* (cont.) Mengerjakan project tasks (scheduler untuk video_data)
-    * Mengerjakan task untuk `worker` -- `fetch`, `convert`, dan `save` data video.
-    * Menambahkan beberapa perubahan pada project sesuai dengan hasil review
-    * Membuat project description untuk video_data
+* (cont.) Mengerjakan task dari project untuk mengambil dan menyimpan detail video dari Kurio API ke database
+* Membuat deskripsi untuk project video_data dengan tujuan menjelaskan tentang project tersebut
 
 #### WL
 ---

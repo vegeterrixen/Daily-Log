@@ -10,7 +10,7 @@
 * Mengikuti Tech Talk: Software Design Pattern (by Pandu)
 
 ###### 22/03/2017
-* Mengerjakan task dari project untuk membuat process schedule untuk menerima video id dari module pengirim
+* Mengerjakan task dari project untuk membuat process schedule yang menerima video id dari module pengirim
 
 ###### 23/03/2017
 * Mengerjakan task dari project untuk mengambil dan menyimpan detail video dari Kurio API ke database.

@@ -19,22 +19,18 @@
 
 ###### 27/03/2017
 * Melakukan Sprint Retrospective (what went well, what went wrong, what we could improve) dari sprint yang telah dilakukan
-* Membahas tasks yang akan dikerjakan untuk sprint berikutnya
-* (cont.) Mempelajari Python decorators
+* Mempelajari decorators pada Python
 
 ###### 29/03/2017
-* Mengerjakan project tasks dengan menggunakan Python dan BigQuery
-    * Membuat konfigurasi BigQuery dalam project
-    * Menambahkan perubahan pada task yang sedang dikerjakan sesuai review
+* Membuat konfigurasi BigQuery di dalam project
 
 ###### 30/03/2017
-* (cont.) Mengerjakan project tasks dengan menggunakan Python dan BigQuery
-    * Mempelajari syntax query untuk mengambil data dari BigQuery
-    * Menyimpan results dari query kedalam MongoDB
+* Implementasi syntax query untuk mengambil data dari BigQuery
+* Implementasi operation pada MongoDB untuk menyimpan results dari BigQuery
 
 ###### 31/03/2017
-* (cont.) Mengerjakan project tasks dengan menggunakan Python dan BigQuery
-    * Mempelajari syntax query untuk mengambil data dari BigQuery
+* (cont.) Implementasi syntax query untuk mengambil data dari BigQuery
+* (cont.) Implementasi operation pada MongoDB untuk menyimpan results dari BigQuery
 
 #### WL
 ---
